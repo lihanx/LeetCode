@@ -8,20 +8,27 @@ https://leetcode-cn.com/problems/length-of-last-word/
 */
 
 func lengthOfLastWord(s string) int {
-    n := len(s) - 1
-    var space byte = 32
-    i := n
-    for i >= 0 {
-        if s[i] == space {
-            return n - i
-        }
-        i--
+    
+    length := len(s)
+    if length == 0 {
+        return 0
     }
-    return 0
+    end := length - 1
+    var space byte = 32
+    // 过滤尾部空白字符
+    for end >= 0 && s[end] == space {
+        end--
+    }
+    // 滑窗起点
+    start := end
+    for start >= 0 && s[start] != space {
+        start--
+    }
+    return end - start
 }
 
 func main() {
-    s := " "
+    s := "H"
     length := lengthOfLastWord(s)
-    fmt.Println(s, length)
+    fmt.Printf("'%s', %d\n", s, length)
 }
