@@ -28,7 +28,7 @@ func maxNumberOfBalloons2(text string) int {
         record[text[i]-'a']++
     }
     record['l'-'a'] /= 2
-    record['o'-'a'] /=2
+    record['o'-'a'] /= 2
     result := len(text)
     for _, val := range "balon" {
         if record[val-'a'] < result {

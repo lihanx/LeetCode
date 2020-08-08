@@ -17,3 +17,6 @@
 [917. 仅仅反转字母](https://leetcode-cn.com/problems/reverse-only-letters/) [栈/单字符串双指针对向遍历]
 
 [1189. “气球” 的最大数量](https://leetcode-cn.com/problems/maximum-number-of-balloons/) [slice/map、ascii code]
+
+[824. 山羊拉丁文](https://leetcode-cn.com/problems/goat-latin/) [单字符串滑窗、ascii code]
+
