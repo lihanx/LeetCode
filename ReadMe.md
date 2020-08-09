@@ -20,3 +20,10 @@
 
 [824. 山羊拉丁文](https://leetcode-cn.com/problems/goat-latin/) [单字符串滑窗、ascii code]
 
+[38. 外观数列](https://leetcode-cn.com/problems/count-and-say/)
+
+[1370. 上升下降字符串](https://leetcode-cn.com/problems/increasing-decreasing-string/) [桶计数]
+
+[1170. 比较字符串最小字母出现频次](https://leetcode-cn.com/problems/compare-strings-by-frequency-of-the-smallest-character/)
+
+[28. 实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/)
