@@ -30,7 +30,7 @@
 
 [434. 字符串中的单词数](https://leetcode-cn.com/problems/number-of-segments-in-a-string/) [正向滑窗]
 
-[345. 反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/) [单字符串首尾双指针对向便利]
+[345. 反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/) [单字符串首尾双指针对向遍历]
 
 ### 中等
 
