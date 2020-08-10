@@ -29,6 +29,8 @@
 [28. 实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/)
 
 
+[434. 字符串中的单词数](https://leetcode-cn.com/problems/number-of-segments-in-a-string/)
+
 ### 中等
 
 [151. 翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/) [逆向滑窗]
