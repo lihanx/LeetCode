@@ -26,7 +26,7 @@
 
 [1170. 比较字符串最小字母出现频次](https://leetcode-cn.com/problems/compare-strings-by-frequency-of-the-smallest-character/)
 
-[28. 实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/)
+[28. 实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/) [暴力解法 / Sunday 算法]
 
 [434. 字符串中的单词数](https://leetcode-cn.com/problems/number-of-segments-in-a-string/) [正向滑窗]
 
