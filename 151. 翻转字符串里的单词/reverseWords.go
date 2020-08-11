@@ -45,10 +45,10 @@ func reverseWords(s string) string {
 
 func main() {
     // input := "  hello world!  "
-    // input := "a good   example"
+    input := "a good   example"
     // input := "   "
     // input := ""
-    input := "a"
+    // input := "a"
     result := reverseWords(input)
-    fmt.Printf("'%s'", result)
+    fmt.Printf("'%s'\n", result)
 }
