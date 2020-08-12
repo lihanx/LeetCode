@@ -32,6 +32,23 @@
 
 [345. 反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/) [单字符串首尾双指针对向遍历]
 
+[520. 检测大写字母](https://leetcode-cn.com/problems/detect-capital/) [遍历计数]
+
+[1507. 转变日期格式](https://leetcode-cn.com/problems/reformat-date/) [map，直接取值拼接，不要多想]
+
+[819. 最常见的单词](https://leetcode-cn.com/problems/most-common-word/)
+
+[1436. 旅行终点站](https://leetcode-cn.com/problems/destination-city/) [map + slice]
+
+[1544. 整理字符串](https://leetcode-cn.com/problems/make-the-string-great/) [栈]
+
+[面试题 01.09. 字符串轮转](https://leetcode-cn.com/problems/string-rotation-lcci/) [拼接检查子串]
+
+[剑指 Offer 58 - II. 左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/) [遍历拼接]
+
+[1332. 删除回文子序列](https://leetcode-cn.com/problems/remove-palindromic-subsequences/) [技巧]
+
+
 ### 中等
 
 [151. 翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/) [逆向滑窗]
