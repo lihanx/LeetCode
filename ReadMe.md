@@ -48,7 +48,22 @@
 
 [1332. 删除回文子序列](https://leetcode-cn.com/problems/remove-palindromic-subsequences/) [技巧]
 
+[859. 亲密字符串](https://leetcode-cn.com/problems/buddy-strings/)
+
+[443. 压缩字符串](https://leetcode-cn.com/problems/string-compression/)
+
 
 ### 中等
 
 [151. 翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/) [逆向滑窗]
+
+
+## 树
+
+### 简单
+
+[102.二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal) [队列]
+
+[104.二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree) [递归]
+
+[111. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/submissions/) [BFS/（层序遍历）]
