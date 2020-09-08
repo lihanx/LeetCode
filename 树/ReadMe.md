@@ -7,3 +7,5 @@
 [104.二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree) [递归]
 
 [111. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/submissions/) [BFS（层序遍历）]
+
+[101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) [递归/BFS（层序遍历）]
