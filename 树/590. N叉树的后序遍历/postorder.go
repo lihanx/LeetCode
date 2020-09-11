@@ -32,7 +32,27 @@ func lrv(node *Node, res *[]int) {
 }
 
 
-// 2. 迭代解法
+/* 
+2. 迭代解法 
+迭代解法这里其实没有直接的方式可以完成
+通过对比前序遍历和后序遍历的结果，可以发现，后序遍历的结果可以通过对前序遍历进行改造获得
+*/
 func postorderTraversal(root *Node) []int {
-	
+	res := make([]int, 0)
+	if root == nil {
+		return res
+	}
+	stack := []*Node{root}
+	for len(stack) > 0 {
+		node := stack[len(stack)-1]
+		res = append(res, node.Val)
+		stack = stack[:len(stack)-1]
+		for _, c := range node.Children {
+			stack = append(stack, c)
+		}
+	}
+	for i, j := 0, len(res)-1; i < j; i, j = i+1, j-1 {
+		res[i], res[j] = res[j], res[i]
+	}
+	return res
 }
