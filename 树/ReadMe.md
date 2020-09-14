@@ -17,3 +17,7 @@
 [590. N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/) - [前序遍历改造(递归/栈)]
 
 [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/submissions/) - [递归]
+
+### 中等
+
+[94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) - [递归/栈]
