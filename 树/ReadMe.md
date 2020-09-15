@@ -18,6 +18,8 @@
 
 [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/submissions/) - [递归]
 
+[617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/) - [递归/迭代]
+
 ### 中等
 
-[94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) - [递归/栈]
+[94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) - [递归/栈+迭代]
