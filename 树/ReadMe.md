@@ -22,6 +22,9 @@
 
 [637. 二叉树的层平均值](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/) - [层序遍历]
 
+
+[110. 平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/) - [递归（自底向上）]
+
 ### 中等
 
 [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) - [递归/栈+迭代]
