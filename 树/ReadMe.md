@@ -22,8 +22,9 @@
 
 [637. 二叉树的层平均值](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/) - [层序遍历]
 
-
 [110. 平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/) - [递归（自底向上）]
+
+[404. 左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/) - [递归（深度优先遍历）/ 队列（广度优先遍历）]
 
 ### 中等
 
