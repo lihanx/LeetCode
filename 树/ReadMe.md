@@ -26,6 +26,8 @@
 
 [404. 左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/) - [递归（深度优先遍历）/ 队列（广度优先遍历）]
 
+[559. N叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/) - [递归（深度优先遍历）/ 队列（广度优先遍历）]
+
 ### 中等
 
 [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) - [递归/栈+迭代]
