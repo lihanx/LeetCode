@@ -7,3 +7,5 @@
 [*[简单]* 1290. 二进制链表转整数](https://leetcode-cn.com/problems/convert-binary-number-in-a-linked-list-to-integer/) - [进制转换逆向运算]
 
 [*[简单]* 面试题 02.02. 返回倒数第 k 个节点](https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci/) - [双指针]
+
+[*[简单]* 234. 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/) - [快慢指针 + 链表翻转]
