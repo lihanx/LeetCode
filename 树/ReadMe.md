@@ -1,12 +1,12 @@
 ## 树
 
-[*[简单]* 102.二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal) [队列]
+[*[简单]* 102.二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal) - [队列]
 
-[*[简单]* 104.二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree) [递归]
+[*[简单]* 104.二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree) - [递归]
 
-[*[简单]* 111. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/submissions/) [BFS（层序遍历）]
+[*[简单]* 111. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/submissions/) - [BFS（层序遍历）]
 
-[*[简单]* 101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) [递归/BFS（层序遍历）]
+[*[简单]* 101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) - [递归/BFS（层序遍历）]
 
 [*[简单]* 107. 二叉树的层次遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/submissions/) - [层序遍历]
 
