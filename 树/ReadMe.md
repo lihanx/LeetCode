@@ -31,3 +31,5 @@
 [*[简单]* 938. 二叉搜索树的范围和](https://leetcode-cn.com/problems/range-sum-of-bst/) - [深度优先遍历 + BST特性]
 
 [*[中等]* 94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) - [递归/栈+迭代]
+
+[*[简单]* 700. 二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/) - [深度优先遍历]
