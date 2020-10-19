@@ -47,5 +47,6 @@
 
 [*[简单]* 443. 压缩字符串](https://leetcode-cn.com/problems/string-compression/)
 
-
 [*[中等]* 151. 翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/) [逆向滑窗]
+
+[*[简单]* 387. 字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) - [线性遍历]
